@@ -1,0 +1,9 @@
+#header{
+    opacity: 0.95;
+    padding: 0.3rem;
+    background-color: rgba(3, 7, 18, 0.912);
+    transition-duration: 500ms;
+    border: none;
+    color: azure;
+}
+
